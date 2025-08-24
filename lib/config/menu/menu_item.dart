@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class  MenuItem {
 final String title;
@@ -41,5 +40,10 @@ const appMenuItems = <MenuItem>[
         MenuItem(title: 'Animated Container',
         subtitle: 'Container animado', 
         link: '/animated',
-        icon: Icons.check_box_outline_blank_rounded)
+        icon: Icons.check_box_outline_blank_rounded),
+        MenuItem(
+          title: 'UI Controls + Tiles',
+          subtitle: 'Serie de controles en flutter',
+          link: '/ui-controls',
+          icon: Icons.car_rental_outlined)
 ];
