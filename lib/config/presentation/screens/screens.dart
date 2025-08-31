@@ -1,4 +1,7 @@
 
+export 'package:widgets_app/config/presentation/screens/theme_changer/theme_changer_screen.dart';
+
+export 'package:widgets_app/config/presentation/screens/counter/counter_screen.dart'; 
 export 'package:widgets_app/config/presentation/screens/animated/animated_screen.dart';
 export 'package:widgets_app/config/presentation/screens/app_tutorial/app_tutorial_screen.dart';
 export 'package:widgets_app/config/presentation/screens/buttons/buttons_screen.dart';
